@@ -1,0 +1,28 @@
+.usersTable {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+h1 {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border: 1px solid #ddd;
+  padding: 20px;
+}
+
+th, td {
+  padding: 12px;
+  text-align: center;
+}
+
+input {
+    width: 25%;
+    height: 30px;
+}
+
+form {
+    display: flex;
+    gap: 10px;
+}
